@@ -1,3 +1,15 @@
 [submodule "W1/GPIO_IN_CONFIG"]
 	path = W1/GPIO_IN_CONFIG
 	url = https://github.com/ngminhthanh12a3/DESLabSTM32Training_GPIO_IN_CONFIG.git
+[submodule "W1/GPIO_OUT_CONFIG"]
+	path = W1/GPIO_OUT_CONFIG
+	url = https://github.com/ngminhthanh12a3/DESLabSTM32Training_GPIO_OUT_CONFIG.git
+[submodule "W1/CLOCK_F1"]
+	path = W1/CLOCK_F1
+	url = https://github.com/ngminhthanh12a3/DESLabSTM32Training_Clock_F1.git
+[submodule "W2/EXTI"]
+	path = W2/EXTI
+	url = https://github.com/ngminhthanh12a3/DESLabSTM32Training_EXTI.git
+[submodule "W2/TIMER"]
+	path = W2/TIMER
+	url = https://github.com/ngminhthanh12a3/DESLabSTM32Training_TIMER.git
