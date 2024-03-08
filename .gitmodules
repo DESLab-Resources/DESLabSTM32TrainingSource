@@ -13,9 +13,9 @@
 [submodule "W2/TIMER"]
 	path = W2/TIMER
 	url = https://github.com/ngminhthanh12a3/DESLabSTM32Training_TIMER.git
-[submodule "Activity/GPIO_Activity_2"]
-	path = Activity/GPIO_Activity_2
-	url = https://github.com/DESLab-Resources/STM32Training_GPIO_Activity_2
 [submodule "Activity/GPIO_Activity_1"]
 	path = Activity/GPIO_Activity_1
-	url = https://github.com/DESLab-Resources/STM32Training_GPIO_Activity_1
+	url = https://github.com/DESLab-Resources/STM32Training_GPIO_Activity_1.git
+[submodule "Activity/GPIO_Activity_2"]
+	path = Activity/GPIO_Activity_2
+	url = https://github.com/DESLab-Resources/STM32Training_GPIO_Activity_2.git
