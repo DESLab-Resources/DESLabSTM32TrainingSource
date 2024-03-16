@@ -19,3 +19,6 @@
 [submodule "Activity/GPIO_Activity_2"]
 	path = Activity/GPIO_Activity_2
 	url = https://github.com/DESLab-Resources/STM32Training_GPIO_Activity_2.git
+[submodule "W2/Systick"]
+	path = W2/Systick
+	url = https://github.com/DESLab-Resources/DESLabSTM32Training_Systick.git
