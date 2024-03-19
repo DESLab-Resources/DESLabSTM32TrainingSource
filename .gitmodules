@@ -22,3 +22,6 @@
 [submodule "W2/Systick"]
 	path = W2/Systick
 	url = https://github.com/DESLab-Resources/DESLabSTM32Training_Systick.git
+[submodule "Extension/TIMER_INTERRUPT"]
+	path = Extension/TIMER_INTERRUPT
+	url = https://github.com/DESLab-Resources/EXT_TIMER_INTERRUPT.git
