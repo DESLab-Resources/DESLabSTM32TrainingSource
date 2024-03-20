@@ -25,3 +25,6 @@
 [submodule "Extension/TIMER_INTERRUPT"]
 	path = Extension/TIMER_INTERRUPT
 	url = https://github.com/DESLab-Resources/EXT_TIMER_INTERRUPT.git
+[submodule "Activity/EXTI_Activity_1"]
+	path = Activity/EXTI_Activity_1
+	url = https://github.com/DESLab-Resources/STM32Training_EXTI_Activity_1.git
