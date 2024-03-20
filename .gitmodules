@@ -28,3 +28,15 @@
 [submodule "Activity/EXTI_Activity_1"]
 	path = Activity/EXTI_Activity_1
 	url = https://github.com/DESLab-Resources/STM32Training_EXTI_Activity_1.git
+[submodule "Activity/Interrupt_Systick"]
+	path = Activity/Interrupt_Systick
+	url = https://github.com/DESLab-Resources/STM32Training_Interrupt_Systick.git
+[submodule "Activity/ACTIVITY_TIM2_1"]
+	path = Activity/ACTIVITY_TIM2_1
+	url = https://github.com/DESLab-Resources/STM32Training_ACTIVITY_TIM2_1.git
+[submodule "Activity/ACTIVITY_TIM2_TIM3_1"]
+	path = Activity/ACTIVITY_TIM2_TIM3_1
+	url = https://github.com/DESLab-Resources/STM32Training_ACTIVITY_TIM2_TIM3_1.git
+[submodule "Activity/ACTIVITY_TIM1_EXTI_1"]
+	path = Activity/ACTIVITY_TIM1_EXTI_1
+	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_TIM1_EXTI_1.git
