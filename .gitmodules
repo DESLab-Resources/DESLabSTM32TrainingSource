@@ -40,3 +40,12 @@
 [submodule "Activity/ACTIVITY_TIM1_EXTI_1"]
 	path = Activity/ACTIVITY_TIM1_EXTI_1
 	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_TIM1_EXTI_1.git
+[submodule "Activity/ACTIVITY_TIM_Systick_1"]
+	path = Activity/ACTIVITY_TIM_Systick_1
+	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_TIM_Systick_1.git
+[submodule "Activity/ACTIVITY_TIM_TIM2_1"]
+	path = Activity/ACTIVITY_TIM_TIM2_1
+	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_TIM_TIM2_1.git
+[submodule "Activity/ACTIVITY_TIM_2_2"]
+	path = Activity/ACTIVITY_TIM_2_2
+	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_TIM_TIM2_2.git
