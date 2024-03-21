@@ -55,3 +55,9 @@
 [submodule "W3/USART_Interrupt"]
 	path = W3/USART_Interrupt
 	url = git@github.com:DESLab-Resources/STM32Training_W3_USART_Interrupt.git
+[submodule "W3/Conv_ADC_T1"]
+	path = W3/Conv_ADC_T1
+	url = git@github.com:DESLab-Resources/STM32Training_Conv_ADC_T1.git
+[submodule "W3/ADC_Interrupt"]
+	path = W3/ADC_Interrupt
+	url = git@github.com:DESLab-Resources/STM32Training_ADC_Interrupt.git
