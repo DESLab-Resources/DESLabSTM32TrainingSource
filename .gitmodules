@@ -52,3 +52,6 @@
 [submodule "W3/Conv_USART"]
 	path = W3/Conv_USART
 	url = git@github.com:DESLab-Resources/STM32Training_W3_Conv_USART.git
+[submodule "W3/USART_Interrupt"]
+	path = W3/USART_Interrupt
+	url = git@github.com:DESLab-Resources/STM32Training_W3_USART_Interrupt.git
