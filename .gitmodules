@@ -49,3 +49,6 @@
 [submodule "Activity/ACTIVITY_TIM_2_2"]
 	path = Activity/ACTIVITY_TIM_2_2
 	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_TIM_TIM2_2.git
+[submodule "W3/Conv_USART"]
+	path = W3/Conv_USART
+	url = git@github.com:DESLab-Resources/STM32Training_W3_Conv_USART.git
