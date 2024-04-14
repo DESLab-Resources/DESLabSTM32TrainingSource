@@ -61,3 +61,6 @@
 [submodule "W3/ADC_Interrupt"]
 	path = W3/ADC_Interrupt
 	url = git@github.com:DESLab-Resources/STM32Training_ADC_Interrupt.git
+[submodule "LIB/LCD"]
+	path = LIB/LCD
+	url = git@github.com:DESLab-Resources/STM32Training_LIB_LCD.git
