@@ -64,3 +64,15 @@
 [submodule "LIB/LCD"]
 	path = LIB/LCD
 	url = git@github.com:DESLab-Resources/STM32Training_LIB_LCD.git
+[submodule "Activity/ACTIVITY_USART_1"]
+	path = Activity/ACTIVITY_USART_1
+	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_USART_1.git
+[submodule "Activity/ACTIVITY_USART_2"]
+	path = Activity/ACTIVITY_USART_2
+	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_USART_2.git
+[submodule "Activity/ACTIVITY_USART_3"]
+	path = Activity/ACTIVITY_USART_3
+	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_USART_3.git
+[submodule "Activity/ACTIVITY_USART_4"]
+	path = Activity/ACTIVITY_USART_4
+	url = git@github.com:DESLab-Resources/STM32Training_ACTIVITY_USART_4.git
